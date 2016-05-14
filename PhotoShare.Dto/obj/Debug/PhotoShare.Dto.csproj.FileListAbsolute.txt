@@ -1,0 +1,10 @@
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.Dto\bin\Debug\PhotoShare.Dto.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.Dto\bin\Debug\PhotoShare.Dto.pdb
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.Dto\obj\Debug\PhotoShare.Dto.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.Dto\obj\Debug\PhotoShare.Dto.pdb
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.Dto\obj\Debug\PhotoShare.Dto.csprojResolveAssemblyReference.cache
+C:\BrensDevFiles\$PhotoShare\PhotoShare\PhotoShare.Dto\bin\Debug\PhotoShare.Dto.dll
+C:\BrensDevFiles\$PhotoShare\PhotoShare\PhotoShare.Dto\bin\Debug\PhotoShare.Dto.pdb
+C:\BrensDevFiles\$PhotoShare\PhotoShare\PhotoShare.Dto\obj\Debug\PhotoShare.Dto.csprojResolveAssemblyReference.cache
+C:\BrensDevFiles\$PhotoShare\PhotoShare\PhotoShare.Dto\obj\Debug\PhotoShare.Dto.dll
+C:\BrensDevFiles\$PhotoShare\PhotoShare\PhotoShare.Dto\obj\Debug\PhotoShare.Dto.pdb

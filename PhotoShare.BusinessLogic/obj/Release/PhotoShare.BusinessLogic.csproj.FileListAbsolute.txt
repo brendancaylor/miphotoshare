@@ -1,0 +1,11 @@
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.BusinessLogic\bin\Release\PhotoShare.BusinessLogic.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.BusinessLogic\bin\Release\PhotoShare.BusinessLogic.pdb
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.BusinessLogic\bin\Release\PhotoShare.DataLayer.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.BusinessLogic\bin\Release\PhotoShare.Dto.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.BusinessLogic\bin\Release\EntityFramework.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.BusinessLogic\bin\Release\PhotoShare.DataLayer.pdb
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.BusinessLogic\bin\Release\PhotoShare.Dto.pdb
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.BusinessLogic\bin\Release\EntityFramework.xml
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.BusinessLogic\obj\Release\PhotoShare.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.BusinessLogic\obj\Release\PhotoShare.BusinessLogic.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.BusinessLogic\obj\Release\PhotoShare.BusinessLogic.pdb

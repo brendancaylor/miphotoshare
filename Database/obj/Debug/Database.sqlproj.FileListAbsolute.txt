@@ -1,0 +1,5 @@
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\Database\bin\Debug\Database.dacpac
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\Database\bin\Debug\Database.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\Database\bin\Debug\Database.pdb
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\Database\obj\Debug\Database.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\Database\obj\Debug\Database.pdb

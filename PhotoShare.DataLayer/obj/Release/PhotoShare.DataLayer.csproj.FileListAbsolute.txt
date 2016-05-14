@@ -1,0 +1,10 @@
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.DataLayer\bin\Release\PhotoShare.DataLayer.dll.config
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.DataLayer\bin\Release\PhotoShare.DataLayer.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.DataLayer\bin\Release\PhotoShare.DataLayer.pdb
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.DataLayer\bin\Release\EntityFramework.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.DataLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.DataLayer\bin\Release\EntityFramework.xml
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.DataLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.DataLayer\obj\Release\PhotoShare.DataLayer.csprojResolveAssemblyReference.cache
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.DataLayer\obj\Release\PhotoShare.DataLayer.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.DataLayer\obj\Release\PhotoShare.DataLayer.pdb

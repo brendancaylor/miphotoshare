@@ -1,0 +1,5 @@
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.Dto\bin\Release\PhotoShare.Dto.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.Dto\bin\Release\PhotoShare.Dto.pdb
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.Dto\obj\Release\PhotoShare.Dto.csprojResolveAssemblyReference.cache
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.Dto\obj\Release\PhotoShare.Dto.dll
+C:\BrensDevFiles\___________PhotoShare\PhotoShare\PhotoShare.Dto\obj\Release\PhotoShare.Dto.pdb
